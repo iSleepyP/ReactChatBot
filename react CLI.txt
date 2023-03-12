@@ -1,0 +1,26 @@
+Create react app
+npx create-react-app {name}
+
+start proj.
+npm start
+
+call component form
+rcc -> enter
+
+api
+npm install axios
+
+router
+npm install react-router-dom
+
+create file js
+npm init
+
+socket.io
+npm install socket.io
+
+check server
+node server
+
+socket.io-client
+npm install socket.io-client
