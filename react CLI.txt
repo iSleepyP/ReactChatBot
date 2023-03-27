@@ -4,8 +4,11 @@ npx create-react-app {name}
 start proj.
 npm start
 
-call component form
+call class component form
 rcc -> enter
+
+call react function component
+rfc
 
 api
 npm install axios
@@ -24,3 +27,12 @@ node server
 
 socket.io-client
 npm install socket.io-client
+
+font awesome
+npm i --save @fortawesome/fontawesome-svg-core
+npm i --save @fortawesome/free-solid-svg-icons
+npm i --save @fortawesome/free-regular-svg-icons
+npm i --save @fortawesome/react-fontawesome@latest
+
+bootstrap
+npm install react-bootstrap bootstrap
